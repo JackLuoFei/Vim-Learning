@@ -1,0 +1,4 @@
+My first Vim learning record
+
+1.方向控制分别用hjkl四个键来控制左下上右。
+左：h 下：j 上：k  下：j 
